@@ -14,3 +14,6 @@ $ docker run -dit --name my-running-app -p 8081:80 my-apache2
 ```python
 http://localhost:8081/
 ```
+<br/>
+
+![This is how the index.html document would look like in the browser](./example.PNG)
