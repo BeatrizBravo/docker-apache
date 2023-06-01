@@ -3,7 +3,7 @@
 The apache [HTTP ](https://hub.docker.com/_/httpd) Server Project
 
 1. clone the repository
-2. move to the write directory
+2. move to the right directory
 3. Run the next commands
 ```bash
 $ docker build -t my-apache2 .
